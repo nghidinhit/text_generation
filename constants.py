@@ -1,0 +1,8 @@
+GENERATE_TYPE_GREEDY = "greedy_search"
+GENERATE_TYPE_BEAM_SEARCH = "beam_search"
+
+ERROR_MSG_INVALID_GENERATE_TYPE = "Invalid generate type"
+ERROR_MSG_INTERNAL_SERVER_ERROR = "Internal Server Error"
+
+ERROR_NO_400 = 400
+ERROR_NO_500 = 500
